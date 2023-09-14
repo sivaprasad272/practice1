@@ -4,6 +4,5 @@ THIS LINE IS THIRD COMMIT
 this line is fourth commit
 this line is 5th commit
 this line is 6th commit
-this line is 7th commit
 
 
